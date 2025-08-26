@@ -21,7 +21,3 @@ Backend: Python, Django
 Frontend: HTML, CSS, JavaScript (optional for interactivity)
 
 Database: SQLite (default Django DB)
-
-Installation
-
-Clone the repository:
